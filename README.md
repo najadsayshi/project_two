@@ -76,7 +76,7 @@ Usage
     Viewing Total Expenses:
         The total amount spent will be displayed at the bottom of the application.
 
-**OWNERSHIP**
+## OWNERSHIP
 
     Created by Najad.
     Inspired by various web development tutorials and resources.
